@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ram Avtar  
 
-<!--
-**Codingwithavtar13/Codingwithavtar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Rayat Bahra University  
+💻 Passionate about Coding & Problem Solving  
+🚀 Currently learning: C++, Java, Python & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills  
+- 💻 Languages: C, C++, Java, Python  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 🧠 Concepts: OOP, Problem Solving  
+
+---
+
+## 📂 Projects  
+- 🔐 Password Generator (Python)  
+- 🧮 Simple Calculator (C++)  
+
+---
+
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=Codingwithavtar13&show_icons=true)
+
+---
+
+## 📫 Connect with me  
+- LinkedIn: https://www.linkedin.com/in/ram-avtar-343922324  
+
+---
+
+⭐ "Always learning, always growing"
