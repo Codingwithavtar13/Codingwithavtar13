@@ -9,7 +9,7 @@
 ## 🔥 Skills  
 - 💻 Languages: C, C++, Java, Python  
 - 🌐 Web: HTML, CSS, JavaScript  
-- 🧠 Concepts: OOP, Problem Solving  
+- 🧠 Concepts: DSA, OOP, Problem Solving  
 
 ---
 
